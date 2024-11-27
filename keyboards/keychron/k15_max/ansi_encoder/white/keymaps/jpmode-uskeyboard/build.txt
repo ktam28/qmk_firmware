@@ -1,0 +1,1 @@
+qmk compile -kb keychron/k15_max/ansi_encoder/white -km jpmode-uskeyboard
